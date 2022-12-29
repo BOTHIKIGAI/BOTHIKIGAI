@@ -9,4 +9,4 @@ Mis intereses son:
 - Sociologia 🧑‍🤝‍🧑
 - Filosofia 📖
 
-Actualmente me encuentro aprendiendo Python 🐍, este es el primer lenguaje de programación de alto nivel que he practicado y aprendido, por lo mismo, varios de mis varias actualizaciones y proyectos que encuentres en mi perfil estarán escritos en python. 
+Actualmente me encuentro desarrollando un tecnologo con el SENA sobre Analisis y Desarrollo de Software, el lenguaje de programacion que actualmente uso en Python 🐍, por eso mismo podran encontrar que todo lo que cree se encontrara escrito en este lenguaje. 

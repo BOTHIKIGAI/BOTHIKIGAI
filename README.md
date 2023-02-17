@@ -7,6 +7,19 @@ Veo a la tecnologia con un medio para lograr desafios, para mejorar de manera in
 Mis intereses son:
 
 - Tecnologia 💻
-- Bilogia y Salud 🫀
-- Sociologia 🧑‍🤝‍🧑
+
+  - Cloud ☁️
+  - Desarrollo de software 📙
+  - Linux 🧊
+  - CIberseguridad
+  
+- Salud 🫀
+
+  -  Biomecanica
+  -  Neurologia
+
 - Filosofia 📖
+
+  - Aristoteles 🏫
+  - Immanuel Kant ⭐
+  - René Descartes 🧠

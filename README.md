@@ -6,13 +6,8 @@ Mis intereses son:
 
 - Tecnologia 💻
 
-  - Linux 🫀
   - Python 🐍
+  - JavaScript 🍾
+  - POO 🎱
   - SQL 🐬
   - Back end 🖱️
-
-- Filosofia 📖
-
-  - Aristoteles 🏫
-  - Immanuel Kant ⭐
-  - René Descartes 🧠

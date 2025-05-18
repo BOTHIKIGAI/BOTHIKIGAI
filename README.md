@@ -3,7 +3,7 @@
 ## I'm a full stack developer, specialized in backend and project management, and enthusiastic about the software development world! ⚒️
 
 - 🎓 Software Analysis and Development Technologist
-- 💼 Currently doing internship in “Grupo ASD”.
+- 💼 Currently working at "Grupo ASD".
 - 🏆 Champion of SENA SOFT 2023 in the testing category.
 - 🏗️ Experience in MVC and REST API architectures.
 - 🧑🏻‍💻 Handling of FastAPI, Angular, GitHub Actions, NodeJs, Laravel
